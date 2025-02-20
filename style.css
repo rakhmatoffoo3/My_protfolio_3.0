@@ -1,0 +1,43 @@
+/* body{
+    background-color: black;
+}
+section{
+    color: red;
+} */
+
+* {
+    text-align: center;
+}
+
+#second-div{
+    background-color: black;
+    color: red;
+    border: 10px solid red;
+}
+#third-div{
+    background-color: black;
+    color: red;
+    border: 10px solid red;
+}
+#fourth-div{
+    background-color: black;
+    color: red;
+    border: 10px solid red;
+}
+
+
+
+/* .none {
+    font-size: 20px;
+}
+
+#fifth-tittle{
+    color:blue 
+
+}
+#first-tittle{
+    color:red
+}
+#fourth-tittle{
+    color:green
+} */
